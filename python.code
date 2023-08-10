@@ -29,3 +29,16 @@ f1=open("legend.JPG","wb")
 
 for i in f:
     f1.write(i)
+
+
+   ### ZIP FUNCTION IN PYTHON ###
+
+
+names=("ammar","umair","sarim","kareem")
+
+
+comps=("dell","apple","hp","google")
+
+zipped=list(zip(names,comps))
+
+print(zipped)
