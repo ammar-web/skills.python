@@ -1,4 +1,4 @@
-### BUBBLE SORT USING PYTHON ###
+### BUBBLE SORT IN PYTHON ###
 
 
 def sort(nums):
