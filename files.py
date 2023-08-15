@@ -1,5 +1,5 @@
 
-### IMAGE FILES USING PYTHON ###
+### IMAGE FILES IN PYTHON ###
 
 
 f=open("300A7659.JPG","rb")
