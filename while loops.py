@@ -1,4 +1,4 @@
-### WHILE LOOPS IN PYTHON ###
+### GUESSING GAME USING WHILE LOOPS IN PYTHON ###
 
 
 secret_number=14
