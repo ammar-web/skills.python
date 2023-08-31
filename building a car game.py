@@ -1,33 +1,48 @@
 ### BUILDING A CAR GAME USING PYTHON ###
 
 
-info=input(">")
+for j in range(2):
+    
+    info=input(">")
 
 
 
-if info=="help":
-    print('''Start- To start the car
+    if info=="help":
+        
+        print('''Start- To start the car
 Stop- To stop a car
 Quit-To exit''')
 
-
-
-if info!="help":
-    print("I don't undestand that...")
-x=input(">")
-
-
-if x=="start":
-    print("Car started to move...")
-
-y=input(">")
+        break
 
 
 
-if y=="stop":
-    print("car stopped moving...")
+    elif info!="help":
+        
+        print("I don't undestand that...")
+        
+        break
 
-z=input(">")
 
-if z=="quit":
-    print("exited from game...")
+for i in range(3):
+
+    command = input(">")
+
+
+    if command=="start":
+        
+        print("car started to move...")
+        
+        break
+
+    elif command=="stop":
+        
+        print("car has stopped moving...")
+        
+        break
+
+    elif command=="quit":
+        
+        print("you are returned to the main menu...")
+        
+        break
