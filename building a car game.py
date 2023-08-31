@@ -1,7 +1,7 @@
 ### BUILDING A CAR GAME USING PYTHON ###
 
 
-for j in range(2):
+for i in range(2):
     
     info=input(">")
 
@@ -24,7 +24,7 @@ Quit-To exit''')
         break
 
 
-for i in range(3):
+for j in range(3):
 
     command = input(">")
 
