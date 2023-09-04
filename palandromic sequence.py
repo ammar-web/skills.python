@@ -1,4 +1,4 @@
-### PALANDROMIC SEQUENCE ###
+### PALANDROMIC SEQUENCE USING PYTHON ###
 
 def isPalindrome(s):
 	return s == s[::-1]
