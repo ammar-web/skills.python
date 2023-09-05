@@ -1,3 +1,6 @@
+### USING "FOR LOOPS" IN PYTHON ###
+
+
 prices = [10, 20, 30, 100]
 
 total = 0
