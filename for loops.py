@@ -1,4 +1,5 @@
 ### USING "FOR LOOPS" IN PYTHON ###
+### CREATING A PURCHASE BILL USING PYTHON ###
 
 
 prices = [10, 20, 30, 100]
