@@ -13,7 +13,7 @@ if len(x)<3:
 
 elif len(x)>50:
     
-    print("name must be of maximum fifty characters!")
+    print("name should be of maximum fifty characters!")
 
 else:
     
