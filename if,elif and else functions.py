@@ -8,7 +8,7 @@ x=(input("enter a name:"))
 
 if len(x)<3:
     
-    print("name cannot be less than 3 characters!")
+    print("name can't be less than 3 characters!")
 
 
 elif len(x)>50:
