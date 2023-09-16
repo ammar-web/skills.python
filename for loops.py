@@ -15,7 +15,7 @@ print(f"total_payment:{total}")
 
 total_payment = total
 
-if total_payment > 200:
+if total_payment > 300:
     
     print("Oops it's out of my budget!!")
 
