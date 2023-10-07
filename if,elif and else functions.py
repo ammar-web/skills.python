@@ -1,6 +1,6 @@
 ### IF, ELIF AND ELSE FUNCTIONS IN PYTHON ###
 
-
+  
   
 
 x=(input("enter a name:"))
