@@ -1,4 +1,4 @@
-### PALANDROMIC SEQUENCE USING PYTHON ###
+### PALANDROMIC SEQUENCE with PYTHON ###
 
 def isPalindrome(s):
 	
