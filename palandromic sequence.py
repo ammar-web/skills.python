@@ -5,7 +5,7 @@ def isPalindrome(s):
 	return s == s[::-1]
 
  
-# Driver code
+# Driver code 
 
 s = "malayalam"
 
