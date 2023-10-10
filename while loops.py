@@ -1,6 +1,6 @@
 ### GUESSING GAME USING WHILE LOOPS IN PYTHON ###
 
-
+ 
 secret_number=14
 
 guess_count=0
