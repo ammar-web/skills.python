@@ -26,7 +26,6 @@ for j in range(3):
 
     command = input(">")
 
-
     if command=="start":
         
         print("car started to move...")
