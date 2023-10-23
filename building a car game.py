@@ -22,7 +22,6 @@ Quit-To exit''')
         
         break
 
-
 for j in range(3):
 
     command = input(">")
