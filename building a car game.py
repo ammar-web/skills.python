@@ -1,6 +1,5 @@
 ### BUILDING A CAR GAME USING PYTHON ###
 
- 
 for i in range(2):
  
     info=input(">")
