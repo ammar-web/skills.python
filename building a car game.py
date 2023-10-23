@@ -38,6 +38,5 @@ for j in range(3):
     elif command=="quit":
         
         print("you are returned to the main menu...")
-
      
         break
