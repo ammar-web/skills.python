@@ -13,7 +13,6 @@ def fact(n):
         return f
 
 x=4
-
 result=fact(x)
 
 print(result)
