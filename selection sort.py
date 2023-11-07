@@ -1,7 +1,6 @@
 ### SELECTION SORT IN PYTHON ###
 
 
- 
 def sort(nums):
     for i in range(5):
         minpos=i
